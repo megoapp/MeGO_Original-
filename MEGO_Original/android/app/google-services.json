@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "963104962884",
+    "firebase_url": "https://mego-c1a42.firebaseio.com",
+    "project_id": "mego-c1a42",
+    "storage_bucket": "mego-c1a42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963104962884:android:934659e521045a48f87f11",
+        "android_client_info": {
+          "package_name": "com.mego_original"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963104962884-5it9tc0epkk973r08no2g1tg7fr673jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBjbFAnFXaOQBiMf0EQH7vu61wXQ7C4nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963104962884-5it9tc0epkk973r08no2g1tg7fr673jm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "963104962884-m4v3hs2auh6ei7hqcp4gcl7girbf21i7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.mego"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
